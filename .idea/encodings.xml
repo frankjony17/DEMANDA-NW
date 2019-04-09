@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/config/autoload.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/BaseRepository.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/DemandaRepository.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reports/BASE/ModeloResumenAnexo3.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/controller/ReporteController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/util/util.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/view/demanda/solicitud/EditDemandaPeriodoGuerraForm.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/view/reporte/ReporteWindow.js" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1252" />
+  </component>
+</project>

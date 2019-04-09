@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3077142077">
+    <data-source source="LOCAL" name="SQLite -" uuid="5932a05d-09de-4947-9c10-7704b562642e">
+      <driver-ref>sqlite.zentus</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/resources/sqlite/demanda.sqlite</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://E:/Desarrollo/phpStorm/plugins/sqlite-jdbc-3.7.6.3-20110609.081603-3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>

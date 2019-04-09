@@ -1,0 +1,29 @@
+{
+  "name": "DTG",
+  "version": "0.0.1",
+  "description": "DEMANDA EN TIEMPO DE GUERRA",
+  "main": "index.html",
+  "window": {
+    "transparent": false,
+    "fullscreen": false,
+    "toolbar": true,
+    "frame": true,
+    "width": 1010,
+    "height": 708,
+    "min_width": 1010,
+    "min_height": 708,
+    "position": "center",
+    "icon": "resources/images/favicon.png"
+  },
+  "scripts": {
+    "test": "ETECSA CDT!!!"
+  },
+  "keywords": [
+    "DTG",
+    "CDT",
+    "ETECSA",
+    "ISLA DE LA JUVENTUD",
+    "CUBA"
+  ],
+  "author": "Frank Ricardo Ramirez"
+}
